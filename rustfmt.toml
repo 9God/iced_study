@@ -1,0 +1,9 @@
+# rustfmt.toml
+max_width = 140
+
+# 使用空格而不是tab进行缩进，这是默认行为
+hard_tabs = false
+
+# This option is deprecated and has been renamed to fn_params_layout to better communicate that it affects the layout of parameters in function signatures.
+fn_params_layout = "Tall"
+# brace_style = "SameLineWhere"
