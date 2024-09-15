@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use iced::executor;
 use iced::font::Font;
 use iced::theme;
